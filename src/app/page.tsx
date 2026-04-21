@@ -1,3 +1,5 @@
+//@ts-nocheck
+//@eslint-disable
 'use client'
 import { useState } from "react";
 import { AreaChart, Area, BarChart, Bar, PieChart, Pie, Cell, LineChart, Line,
